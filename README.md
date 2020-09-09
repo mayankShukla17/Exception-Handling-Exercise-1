@@ -22,7 +22,7 @@ Sample Input:
 This is a demo sentence, 8
 Expected Output:
 a
---------------------------------------------------------
+-------------------------------------------------------- 
 Sample Input:
 This is a demo sentence, xyz
 Expected Output:
