@@ -18,6 +18,7 @@ Problem Statement: Find character at specified location in a string
 +characterLocator(String, String) : character
 - Should take two String values as input and return a character as result
 - Should also handle exception thrown by logic using try and catch
+--------------------------------------------------------
 Sample Input:
 This is a demo sentence, 8
 Expected Output:
@@ -26,7 +27,6 @@ Sample Input:
 This is a demo sentence, xyz
 Expected Output:
 NumberFormatException
-
 Sample Input:
 This is a demo sentence, 40
 Expected Output:
@@ -40,12 +40,12 @@ catch**
 +fractionCalculator(int, int) : String
 - Should take two integer values as input and return a string as result
 - Should also handle exceptions thrown by logic using try and catch
+--------------------------------------------------------
 Example
 Sample Input:
 120 3
 Expected Output:
 40
-
 Sample Input:
 1200 0
 Expected Output:
