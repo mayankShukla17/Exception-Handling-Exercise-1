@@ -23,10 +23,12 @@ Sample Input:
 This is a demo sentence, 8
 Expected Output:
 a
+
 Sample Input:
 This is a demo sentence, xyz
 Expected Output:
 NumberFormatException
+
 Sample Input:
 This is a demo sentence, 40
 Expected Output:
@@ -46,6 +48,7 @@ Sample Input:
 120 3
 Expected Output:
 40
+
 Sample Input:
 1200 0
 Expected Output:
